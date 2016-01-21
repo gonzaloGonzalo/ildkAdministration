@@ -3,7 +3,11 @@
 		- El dispositivo de interfaz grafica debe ser portatil.
 		- El monitor para cocina debe ser LCD.
 		- La cocina debe tener un dispositivo de entrada para informar plato cocinado. 
+		- La conexion debe ser por wifi.
+
 		
 - SOFTWARE
 		
 		- El stack tecnologico debe ser free software (MYSQL, JAVA, ANGULAR).
+		- El backup debe ser por gdrive. 
+		- La aplicacion debe estar disponible offline. 

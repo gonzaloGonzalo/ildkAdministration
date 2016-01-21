@@ -1,5 +1,15 @@
 Requerimientos funcionales
 
+Modulo entrada salida dinero
+
 1- Registrar gastos y descripcion.
 2- Registrar ventas y descripcion. 
-3- 
+3- Permitir balance diario, mensual, anual.
+4- Archivar tickets. 
+
+Modulo despacho cocina
+
+1- Registrar pedido.
+2- Mostrar cola de pedido. 
+3- Notificar pedido realizado. 
+
