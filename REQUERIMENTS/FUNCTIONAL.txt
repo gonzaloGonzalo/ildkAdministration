@@ -1,0 +1,5 @@
+Requerimientos funcionales
+
+1- Registrar gastos y descripcion.
+2- Registrar ventas y descripcion. 
+3- 
