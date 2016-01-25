@@ -1,0 +1,11 @@
+SUBTASKS
+
+1. Crear y describir las entidades de modelo. 				DONE
+2. Crear las entidades ORM en Hibernate. 					
+3. Crear las clases CRUD a nivel de acceso a datos DAO.
+4. Crear las clases a nivel de exposicion de servicios. 
+5. Crear los métodos necesarios en capa REST. 
+6. Crear cliente ANGULAR. 
+8. Definir layout de pagina.
+9. Crear pagina para manejo de CRUD. 
+

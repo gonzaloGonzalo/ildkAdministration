@@ -11,3 +11,4 @@
 		- El stack tecnologico debe ser free software (MYSQL, JAVA, ANGULAR).
 		- El backup debe ser por gdrive. 
 		- La aplicacion debe estar disponible offline. 
+
