@@ -1,0 +1,14 @@
+<div class="container" >
+	<table ng-table="vm.tableParams" class="table" show-filter="true">
+		<tr>
+			<th>idcompras</th>
+			<th>nroDeTicket</th>
+		</tr>
+		
+		<tr ng-repeat="compra in compras">
+			 <td><input type="button" class="btn btn-primary" value="Hide" data-ng-click="removeRow(product)"/></td>
+			<td>{{ compra.idcompras }}</td>
+			<td>{{ compra.nroDeTicket }}</td>
+		</tr>
+	<table>	
+</div>
